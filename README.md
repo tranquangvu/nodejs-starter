@@ -23,7 +23,6 @@ gulp
 Note: To make livereload work, you need to install LiveReload extension on your browser. [LiveReload Chrome Extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en)
 
 #### Keywords
---------
 * ExpressJS
 * Mongoose
 * ES6
