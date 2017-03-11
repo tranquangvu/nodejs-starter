@@ -8,9 +8,9 @@ The easiest way to get started is to clone the repository:
 # clone boilerplate
 git clone git@github.com:tranquangvu/nodejs-starter.git project_name
 # go to project dir
-`cd project_name`
+cd project_name
 # install npm dependencies
-`npm install`
+npm install
 # or, if you prefer to use `yarn` instead of `npm`
 yarn install
 # install bower dependencies
