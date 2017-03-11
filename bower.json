@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-starter",
+  "description": "A boilerplate for Node.js web applications",
+  "authors": "Ben",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
