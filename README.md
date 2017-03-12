@@ -6,7 +6,7 @@ A boilerplate for Node.js web applications.
 The easiest way to get started is to clone the repository:
 ```bash
 # clone boilerplate
-git clone git@github.com:tranquangvu/nodejs-starter.git project_name
+git clone https://github.com/tranquangvu/nodejs-starter.git project_name
 # go to project dir
 cd project_name
 # install npm dependencies
